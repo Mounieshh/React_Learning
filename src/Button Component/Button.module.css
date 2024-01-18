@@ -1,0 +1,11 @@
+/* Module CSS */
+
+.button2{
+    background-color: hsl(52, 84%, 57%);
+    color: rgb(16, 1, 1);
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+}
